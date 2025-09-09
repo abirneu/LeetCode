@@ -6,7 +6,7 @@ I’m solving problems in **Python**
 - `Python/` → Python solutions
 
 ## Progress
-✅ Easy Problems Solved: 12  
+✅ Easy Problems Solved: 13  
 🟡 Medium Problems Solved: 5  
 🔴 Hard Problems Solved: 1 
 
